@@ -79,17 +79,16 @@ class Aswini:
 
 <p align="center">
 
-<a href="https://https://github.com/Aswini-Coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Aswini-Coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/aswini-mantry-653a79383/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="portfolio-.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://www.figma.com/make/HzAAFaHU35IOTBhhmPGSaU/User-dashboard?t=fhd23IXWarHxdKNP-20&fullscreen=1" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-
 <a href="mailto:aswinimantry@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
