@@ -9,7 +9,7 @@
 
 ### Building AI-Powered Software • Full Stack Applications • Open Source
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+Artificial+Intelligence+Student;Building+AI+%26+Full+Stack+Applications;ISRO+BAH+Hackathon+Participant;Java+%7C+JavaScript+%7C+Python+Developer;Open+Source+Contributor;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+Artificial+Intelligence+Student;Building+AI+%26+Full+Stack+Applications;ISRO AI/ML for Geodata Analysis+Participant;Java+%7C+JavaScript+%7C+Python+Developer;Open+Source+Contributor;Always+Learning+Something+New..." />
 
 <br>
 
@@ -34,10 +34,10 @@
 # 💫 About Me
 
 ```python
-class Abinash:
+class Aswini:
 
     def __init__(self):
-        self.name = "Ommp Abinash"
+        self.name = "Aswini Kumar Mantry"
         self.education = "B.Tech in Artificial Intelligence"
         self.location = "Odisha, India"
 
