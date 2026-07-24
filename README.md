@@ -79,14 +79,13 @@ class Aswini:
 
 <p align="center">
 
-<a href="https://github.com/aswinikumarmantry">
+<a href="https://https://github.com/Aswini-Coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/aswini-mantry-653a79383">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/aswini-mantry-653a79383/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="portfolio-.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
