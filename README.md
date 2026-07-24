@@ -22,11 +22,11 @@
 
 
 <!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+B.Tech+AI+Student;🤖+Building+AI+%26+Full+Stack+Applications;🛰️+ISRO+BAH+Hackathon+Participant;📦+Creator+of+OMPUtil;🌍+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+B.Tech+AI+Student;🤖+Building+AI+%26+Full+Stack+Applications;🛰️+ISRO AI/ML for Geodata Analysis+Participant;🌍+Open+Source+Contributor" />
 </p> -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ommpabinash&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aswinikumarmantry&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
@@ -86,11 +86,11 @@ class Aswini:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/aswini">
+<a href="www.linkedin.com/in/aswini-mantry-653a79383">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="portfolio-apex07.netlify.app">
+<a href="portfolio-.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -196,7 +196,7 @@ class Aswini:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ommpabinash&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswini-Coder&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -244,7 +244,7 @@ class Aswini:
 # ⚡ Fun Fact
 
 ```javascript
-const abinash = {
+const aswini = {
     coffee: true,
     debugging: "Everyday 😄",
     learning: "Never Stops",
