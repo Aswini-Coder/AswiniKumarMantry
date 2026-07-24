@@ -66,8 +66,7 @@ class Aswini:
 
 - 🎓 B.Tech Student specializing in Artificial Intelligence
 - 🚀 Passionate about building AI-powered and Full Stack applications
-- 🛰️ ISRO BAH Hackathon Participant
-- 📦 Creator of **OMPUtil** Python Package
+- 🛰️ ISRO AI/ML for Geodata Analysis Participant
 - 🔐 MERN Stack Developer
 - 💻 Java Backend Developer
 - 🌱 Currently exploring AI Agents, System Design and Cloud
@@ -104,7 +103,7 @@ class Aswini:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🛰️ **ISRO BAH Hackathon** | AI-powered enhancement of infrared satellite imagery | Python • OpenCV • Deep Learning |
+| 🛰️ **ISRO AI/ML for Geodata Analysis** | AI-powered enhancement of infrared satellite imagery | Python • OpenCV • Deep Learning |
 | 🔐 **Authentication System** | Full Stack authentication with JWT | React • Node.js • Express • MongoDB |
 | 📦 **OMPUtil** | Python utility package published for developers | Python • PyPI |
 | 🏥 **Hospital Management System** | Java desktop application with database connectivity | Java • JDBC • MySQL |
