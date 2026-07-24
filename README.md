@@ -105,7 +105,7 @@ class Aswini:
 |---------|-------------|------|
 | 🛰️ **ISRO AI/ML for Geodata Analysis** | AI-powered enhancement of infrared satellite imagery | Python • OpenCV • Deep Learning |
 | 🔐 **Authentication System** | Full Stack authentication with JWT | React • Node.js • Express • MongoDB |
-| 📦 **OMPUtil** | Python utility package published for developers | Python • PyPI |
+| 📦AI-Powered Smart Farming Assistant | ML model for crop recommendation |   Python . Pandas + Numpy
 | 🏥 **Hospital Management System** | Java desktop application with database connectivity | Java • JDBC • MySQL |
 
 ---
